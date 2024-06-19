@@ -1,0 +1,20 @@
+.correct {
+    animation: blinkGreen 1s;
+  }
+  
+  @keyframes blinkGreen {
+    0% { background-color: green; color: white; }
+    50% { background-color: white; color: green; }
+    100% { background-color: green; color: white; }
+  }
+  
+  .incorrect {
+    animation: blinkRed 1s;
+  }
+  
+  @keyframes blinkRed {
+    0% { background-color: red; color: white; }
+    50% { background-color: white; color: red; }
+    100% { background-color: red; color: white; }
+  }
+  

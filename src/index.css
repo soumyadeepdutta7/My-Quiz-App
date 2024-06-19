@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.to-indigo-600 {
+  background-image: linear-gradient(to bottom right, #f3e5f5, #3f51b5);
+}
+.shadow-xl {
+  background-image: linear-gradient(to bottom right, #ffcc80, #ffab40);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+}
+.shadow-lg {
+  background-color: #d1c4e9; 
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
