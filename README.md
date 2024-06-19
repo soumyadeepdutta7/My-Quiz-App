@@ -20,7 +20,7 @@ To run the React Quiz App locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/soumyadeepdutta7/My-Quiz-App.git```
+   git clone https://github.com/soumyadeepdutta7/My-Quiz-App.git
 
 Navigate into the project directory:
 
