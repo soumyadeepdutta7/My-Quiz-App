@@ -20,28 +20,18 @@ To run the React Quiz App locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/react-quiz-app.git
+   git clone https://github.com/yourusername/react-quiz-app.git```
 Navigate into the project directory:
+```cd react-quiz-app```
 
-bash
-Copy code
-cd react-quiz-app
 Install dependencies:
+```npm install```
 
-bash
-Copy code
-npm install
 Usage
 Start the development server:
-
-bash
-Copy code
-npm run dev
+```npm run dev```
 Open your browser and visit:
-
-arduino
-Copy code
-http://localhost:3000
+```http://localhost:3000```
 Enter your name, select a quiz category, difficulty level, and number of questions. Click "Start Quiz" to begin.
 
 Technologies Used
