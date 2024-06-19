@@ -20,7 +20,7 @@ To run the React Quiz App locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/react-quiz-app.git```
+   git clone https://github.com/soumyadeepdutta7/My-Quiz-App.git```
 
 Navigate into the project directory:
 
@@ -50,4 +50,4 @@ Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the Apache 2.0 License. See the LICENSE file for details.
