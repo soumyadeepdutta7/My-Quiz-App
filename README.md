@@ -24,19 +24,20 @@ To run the React Quiz App locally, follow these steps:
 
 Navigate into the project directory:
 
-```bash
-cd react-quiz-app```
+```cd react-quiz-app```
 
 Install dependencies:
 
-```bash
-npm install```
+```npm install```
 
 Usage
 Start the development server:
+
 ```npm run dev```
+
 Open your browser and visit:
 ```http://localhost:3000```
+
 Enter your name, select a quiz category, difficulty level, and number of questions. Click "Start Quiz" to begin.
 
 Technologies Used
