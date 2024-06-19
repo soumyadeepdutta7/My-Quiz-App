@@ -27,7 +27,7 @@ Navigate into the project directory:
 cd react-quiz-app```
 
 Install dependencies:
-```bash
+```
 npm install```
 
 Usage
